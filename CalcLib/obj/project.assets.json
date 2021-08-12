@@ -179,23 +179,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/anguyen/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\singh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anguyen/Projects/CSharp/CIV_UnitTesting_Exercises/CalcLib/CalcLib.csproj",
+      "projectUniqueName": "C:\\Users\\singh\\OneDrive - Swinburne University\\CertIV\\PRG\\UnitTest\\XUnit\\CIV_UnitTesting_XUnit\\CalcLib\\CalcLib.csproj",
       "projectName": "CalcLib",
-      "projectPath": "/Users/anguyen/Projects/CSharp/CIV_UnitTesting_Exercises/CalcLib/CalcLib.csproj",
-      "packagesPath": "/Users/anguyen/.nuget/packages/",
-      "outputPath": "/Users/anguyen/Projects/CSharp/CIV_UnitTesting_Exercises/CalcLib/obj/",
+      "projectPath": "C:\\Users\\singh\\OneDrive - Swinburne University\\CertIV\\PRG\\UnitTest\\XUnit\\CIV_UnitTesting_XUnit\\CalcLib\\CalcLib.csproj",
+      "packagesPath": "C:\\Users\\singh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\singh\\OneDrive - Swinburne University\\CertIV\\PRG\\UnitTest\\XUnit\\CIV_UnitTesting_XUnit\\CalcLib\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/Users/anguyen/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\singh\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -205,6 +201,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "projectReferences": {}
         }
       },
@@ -216,6 +213,7 @@
     },
     "frameworks": {
       "netstandard2.0": {
+        "targetAlias": "netstandard2.0",
         "dependencies": {
           "NETStandard.Library": {
             "suppressParent": "All",
@@ -234,7 +232,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

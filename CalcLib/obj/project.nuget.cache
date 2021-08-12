@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "aSkCTduz83hnNaN6v5AzUlL/NqAKBZjFPsOcaq1Nsj2Xx1qRE8QoLTxKNDtUdyDxFGmT5dF25IwoQQhWB5eiBw==",
+  "dgSpecHash": "D3JxOG/w5TMOZIfLhECbkd10PmRb5B8/sIwYYjEtCQSpTfUs1mphT6yKpYJkSRaMWSNnhND3uZB6DrYrUsC8qg==",
   "success": true,
-  "projectFilePath": "/Users/anguyen/Projects/CSharp/CIV_UnitTesting_Exercises/CalcLib/CalcLib.csproj",
+  "projectFilePath": "C:\\Users\\singh\\OneDrive - Swinburne University\\CertIV\\PRG\\UnitTest\\XUnit\\CIV_UnitTesting_XUnit\\CalcLib\\CalcLib.csproj",
   "expectedPackageFiles": [
-    "/Users/anguyen/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/Users/anguyen/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\singh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\singh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
